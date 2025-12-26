@@ -2,6 +2,8 @@
 
 **A Types & Computation Course**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/types-pure-passage-calculus/blob/main/notebooks/tutorial_01_what_is_a_passage.ipynb)
+
 *Teaching lambda calculus through the intellectual history of Densworld's Classification Integrity Committee*
 
 ---
